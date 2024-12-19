@@ -1,0 +1,109 @@
+{
+  "buildFiles": [
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/@react-native-picker/picker/android/src/main/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-date-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/leadingspark/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/.cxx/Debug/266n3l1s/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/leadingspark/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/.cxx/Debug/266n3l1s/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "artifactName": "react_codegen_rnreanimated",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "arm64-v8a",
+      "output": "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/ee4713c89dc69faa668500deaee892a4/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c": {
+      "artifactName": "react_codegen_RNCWebViewSpec",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "arm64-v8a",
+      "output": "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/ee4713c89dc69faa668500deaee892a4/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnpicker.so",
+        "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+        "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnscreens.so",
+        "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/ee4713c89dc69faa668500deaee892a4/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "arm64-v8a",
+      "output": "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/ee4713c89dc69faa668500deaee892a4/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnpicker::@e8bb2e9e833f47d0d516": {
+      "artifactName": "react_codegen_rnpicker",
+      "abi": "arm64-v8a",
+      "output": "/Users/leadingspark/Desktop/untitled3/kokonano/android/app/build/intermediates/cxx/Debug/266n3l1s/obj/arm64-v8a/libreact_codegen_rnpicker.so",
+      "runtimeFiles": [
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/512586cdb89cd2618502b3dee85521ce/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/leadingspark/.gradle/caches/8.10.2/transforms/ee4713c89dc69faa668500deaee892a4/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so"
+      ]
+    },
+    "react_codegen_RNDatePickerSpecs::@c00f981c6e74346c63d4": {
+      "artifactName": "react_codegen_RNDatePickerSpecs",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    }
+  }
+}
